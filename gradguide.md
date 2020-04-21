@@ -1,8 +1,9 @@
 # Applying to STEM Ph.D. Programs
 
-## George Iskander
+#### George Iskander
 
-**Grad Folder**: [(Click here!)](https://drive.google.com/drive/folders/1vI2JCuJCNmggk-SFkw5LnA046zGItzvM?usp=sharing)
+**Grad Folder**: [(Click
+here!)](https://drive.google.com/drive/folders/1vI2JCuJCNmggk-SFkw5LnA046zGItzvM?usp=sharing)
 
 **Email:** <george.iskander@yale.edu>
 
@@ -278,7 +279,7 @@ Advice
 2.  Typically, you need three. Some apps I've seen ask for two. You will
     never need more than three, but some apps will let you add an
     optional fourth. It definitely doesn't hurt to ask for one, but only
-    if you believe it would be strong. I must emphasize, it is *much* better to have three strong letters than three strong ones and another that's so-so!
+    if you believe it would be strong.
 
 3.  What makes a strong letter? Remember the M.O. The best letters will
     attest to your ability to carry out research. So, ideally, you
@@ -320,9 +321,7 @@ Advice
     keep track of. So, use the sheet to make sure everything gets in on
     time. Remind your recommenders every so often through the semester,
     and give them a big heads up about two weeks before the application
-    deadline. 
-    
-    It also doesn't hurt to send them a list of the places you're applying to (either in an email or in a spreadsheet), so they can keep track themselves!
+    deadline.
 
 Finding Programs
 ================
@@ -385,8 +384,6 @@ Advice
     exactly what you like. Looking by people and research instead of by
     school frees you from your biases.
 
-    I will also mention: skim the papers. Don't try to spend a ton of time poring over papers, it very likely that much of it will be hard to absorb. I recommend reading the abstract, introduction, and the conclusion. This will give the majority of what yo need to know.
-    
 3.  When you write down the names of these people, write a short little
     note on what they do. If you're like me, you're going to totally
     forget what everybody does. If you apply to ten school and each has
@@ -489,11 +486,11 @@ Email Template
 
 Here's a template you can use to email faculty. Don't feel like you need
 to use these exact words, you may have to change it to fit whatever it
-is you want to say. If you're currently in a research group, it doesn't hurt to name drop your advisor to help make the connection
+is you want to say.
 
 > Dear Prof. XXX,
 >
-> I hope this email finds you well. My name is  XXX and I'm a rising senior in the XXX major at XXX. I've done research in XXX with Prof. XXX. I am looking to apply my skills from these experiences to XXX . I will be applying to XXX's PhD program in XXX this fall, and I would be interested in joining your group, if there are any openings.
+> I hope this email finds you well. My name is  XXX and I'm a rising senior in the XXX major at XXX. I've done research in XXX. I am looking to apply my skills from these experiences to XXX . I will be applying to XXX's PhD program in XXX this fall, and I would be interested in joining your group, if there are any openings.
 >
 > I recently read your papers on XXX, and I was curious about XXXXXX.
 >
@@ -635,27 +632,25 @@ Advice
     low, and the benefits of winning are huge. And even if you don't
     win, you know how to strengthen your app for next year.
 
-    A strong word of caution: fellowship decisions will usually come out after you hear back from schools, so do not rely on them to get into your dream school!
-    
-8. It is in your interest to apply to multiple, since you can usually
-   defer them so that one supports you once the other ends. Note, if
-   you win multiple federal fellowships (DOE, DOD, NSF, what have you),
-   you are only allowed to take one federal fellowship. But there's no
-   restriction between a federal+private fellowships or private+private
-   fellowships. If you win multiple and decline one, put it on your CV
-   anyway, saying "(declined)" after the fellowship name. This will be
-   important once you start applying to other academic positions,
-   because schools want to see you can bring money in.
+8.  It is in your interest to apply to multiple, since you can usually
+    defer them so that one supports you once the other ends. Note, if
+    you win multiple federal fellowships (DOE, DOD, NSF, what have you),
+    you are only allowed to take one federal fellowship. But there's no
+    restriction between a federal+private fellowships or private+private
+    fellowships. If you win multiple and decline one, put it on your CV
+    anyway, saying "(declined)" after the fellowship name. This will be
+    important once you start applying to other academic positions,
+    because schools want to see you can bring money in.
 
-9. Secure 3+ letters, if possible. When it comes to grad schools, most
-   of them just want three letters. Many fellowships however, ask for 3
-   minimum and 5 maximum, with 3 being the typical number applicants
-   submit. If you can procure a strong fourth letter (same with fifth),
-   then it is in your interest to submit that as well. Having multiple
-   strong letters helps when it comes to these fellowships. But don't
-   stress about this. Most applicants win them with three letters. And
-   don't add extra letters to have extra letters. Only add those that
-   are strong.
+9.  Secure 3+ letters, if possible. When it comes to grad schools, most
+    of them just want three letters. Many fellowships however, ask for 3
+    minimum and 5 maximum, with 3 being the typical number applicants
+    submit. If you can procure a strong fourth letter (same with fifth),
+    then it is in your interest to submit that as well. Having multiple
+    strong letters helps when it comes to these fellowships. But don't
+    stress about this. Most applicants win them with three letters. And
+    don't add extra letters to have extra letters. Only add those that
+    are strong.
 
 10. Even if you don't think you can win, you should try. You have
     nothing to lose and a lot to gain. At best, of course, you win. If
@@ -664,7 +659,7 @@ Advice
 
 11. That brings me to re-applying. Don't be afraid to re-apply. Even if
     you don't win, you'll be armed with a lot of information you can use
-    to strengthen your app the following year. Also, many fellowships will only compare you peers in your year. For instance, if you are an undergrad, your app is measured against other undergrads. If you are a first-year graduate student, you will be competing against the pool of first-year graduate students.
+    to strengthen your app the following year.
 
 List of Fellowships
 -------------------
@@ -692,8 +687,6 @@ once it drops in September, it's a document that details how many awards
 the NSF is giving out, how much money, the criteria for that year's
 fellowship, and so on. The solicitation is your Bible. That one document
 has EVERYTHING you need to know about that year's GRFP.
-
-Another resource I will name is Alex Hunter Lang's amazing website: [Click here!](https://www.alexhunterlang.com/nsf-fellowship) 
 
 ### DOD NDSEG
 
@@ -1032,20 +1025,21 @@ Advice
 
     2.  What was the experience, briefly?
 
-    3.  The hardships and difficulties you overcame (with numbers if you can).
-        
-4.  What you've learned from that experience and how it will be
+    3.  The hardships and difficulties you overcame (with numbers if you
+        can).
+
+    4.  What you've learned from that experience and how it will be
         applicable to your future study.
-    
-5.  (Optional) If your field of future study is different than what
+
+    5.  (Optional) If your field of future study is different than what
         you've done, why.
-    
-You may have many, many questions right now, as I did when I was in
+
+    You may have many, many questions right now, as I did when I was in
     your shoes. What if you had experiences that weren't successful?
     What if you had an experience you didn't like?
-    
-Here is one of the most important pieces of advice I'll give you:
-    **spin it however you can, and find every positive you can. Do not talk about any negatives!** If you
+
+    Here is one of the most important pieces of advice I'll give you:
+    **spin it however you can, and find every positive you can.** If you
     had an experience you didn't enjoy, don't focus on what you didn't
     enjoy: focus on what skills you learned, how that experience helped
     you clarify your interests, etc. If your experience wasn't
@@ -1054,7 +1048,7 @@ Here is one of the most important pieces of advice I'll give you:
     than help me, but I wrote a lot about the really important skills I
     learned from that experience and how those would help me in my
     future research.
-    
+
 8.  I'll give an example from one of my statements, since this all
     sounds super abstract. We'll dissect it and see what we can learn
     from it.
@@ -1085,45 +1079,47 @@ strongest in my statement. Now, sentence-by-sentence.
     2. "FQNET is a platform for conducting quantum network R&D and studying questions of fundamental physics, e.g., whether
    space-time is generated by quantum entanglement. At Caltech, we commissioned an entanglement source for the experiment. To this end, I designed and assembled a feedback controller for an electro-optic modulator in order to achieve high-fidelity
        entangled photon pairs." 
-   
+    
        A lot of faculty have told me that many students will just say whatever is they worked on without giving
        the big picture behind their work. I could just say I did
        electronics all day, but then how am I different from an
        electrical engineer? Show you understand why you did the work
        you did. In essence: briefly state what the goal of the
        experiment/collaboration is.
-   
+    
        You'll also see there is a "funnel" at play here. I give the big
        picture of the collaboration at Fermilab, discuss what Caltech
        is doing, then I finally state what it is I do. I recommend you
        use the funnel in whatever it is you write. It looks simple, but
    I myself often forget to use it, and it's a great way to help structure your paragraphs.
-   
+    
     3. "I found that my attempts to implement traditional PID feedback control failed. However, by programming our own nonlinear algorithm, we achieved stable feedback." 
-   
+    
        Very concise description of the problem I faced and our idea to do something entirely different. If you have multiple research experiences, you'll probably have to describe multiple difficulties, so don't
        bear out every detail.
-       
-   4. "Our \$50 controller performed comparably to a \$1000 commercial controller. We inferred a fidelity of 0.9938, which I reported in a first-author publication \[1\]." 
-   
-      I stated the results of
-      our work. Pinning numbers to what you do, if you can, grounds
-      your sentences and makes what you write sound real. If you don't have numbers, it's no matter. But if you do, use them. I also mentioned a publication we wrote. If you have one, mention it --- remember the M.O.
-   
+    
+4. "Our \$50 controller performed comparably to a \$1000 commercial controller. We inferred a fidelity of 0.9938, which I reported in a first-author publication \[1\]." 
+    
+       I stated the results of
+       our work. Pinning numbers to what you do, if you can, grounds
+       your sentences and makes what you write sound real. If you don't have numbers, it's no matter. But if you do, use them. I also mentioned a publication we wrote. If you have one, mention it --- remember the M.O.
+    
     5. "Toward the end of the summer, I used single photon detectors to show that we had realized entangled pairs of photons. During my summer at Caltech, I learned how to apply quantum information science to questions in fundamental physics." 
-   
-       I wrote in the beginning of the statement that I was interested in interdisciplinary approaches to fundamental physics, so I describe how that experience plays a part. We did work in quantum information with the eventual application to fundamental physics, so I am tying this paragraph back to my introduction with this sentence.
-   
-9. Describe all your research experiences. This will bring you to the
-   last paragraph, where you will describe why the specific program
-   you're applying to is a good fit. This is where you need to mention
-   the faculty members at that school and their research projects.
-   Then, re-iterate how your past experiences would help you be a
-   productive member of their group!
+    
+   I wrote in the beginning of the statement that I was interested in interdisciplinary approaches to fundamental physics, so I
+       describe how that experience plays a part. We did work in
+       quantum information with the eventual application to fundamental physics, so I tie this paragraph back to my introduction with this sentence.
+    
+9.  Describe all your research experiences. This will bring you to the
+    last paragraph, where you will describe why the specific program
+    you're applying to is a good fit. This is where you need to mention
+    the faculty members at that school and their research projects.
+    Then, re-iterate how your past experiences would help you be a
+    productive member of their group!
 
 10. Being concise is vital. This is definitely a lot to discuss in two
-   pages. Your first draft will not be concise. 90% of writing is in
-   the editing. I'll quote Kurt Vonnegut: "Have the guts to cut."
+    pages. Your first draft will not be concise. 90% of writing is in
+    the editing. I'll quote Kurt Vonnegut: "Have the guts to cut."
 
 11. If you have any publications, mention them and cite them to give the
     adcom an easy way to access them.
@@ -1353,8 +1349,9 @@ which I think are also helpful and I'll link to them here.
 1.  [A Five-Minute Guide to Ph.D. Program Applications by Prof. Guo
     (click here)](http://www.pgbovine.net/PhD-application-tips.htm)
 
-2.  [Advice for Ph.D. Program Applications by Prof. Guo (click here)](http://www.pgbovine.net/grad-school-app-tips.htm)
-    
+2.  [Advice for Ph.D. Program Applications by Prof. Guo (click here)
+    ](http://www.pgbovine.net/grad-school-app-tips.htm)
+
 3.  [Advice for Science Fellowship Applications: NSF, NDSEG, Hertz by
     Prof. Guo (click here)](http://www.pgbovine.net/fellowship-tips.htm)
 
