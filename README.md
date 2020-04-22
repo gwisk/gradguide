@@ -1033,13 +1033,14 @@ Advice
     2.  What was the experience, briefly?
 
     3.  The hardships and difficulties you overcame (with numbers if you can).
-        
+    
 4.  What you've learned from that experience and how it will be
         applicable to your future study.
     
 5.  (Optional) If your field of future study is different than what
         you've done, why.
     
+
 You may have many, many questions right now, as I did when I was in
     your shoes. What if you had experiences that weren't successful?
     What if you had an experience you didn't like?
@@ -1122,8 +1123,8 @@ strongest in my statement. Now, sentence-by-sentence.
    productive member of their group!
 
 10. Being concise is vital. This is definitely a lot to discuss in two
-   pages. Your first draft will not be concise. 90% of writing is in
-   the editing. I'll quote Kurt Vonnegut: "Have the guts to cut."
+      pages. Your first draft will not be concise. 90% of writing is in
+      the editing. I'll quote Kurt Vonnegut: "Have the guts to cut."
 
 11. If you have any publications, mention them and cite them to give the
     adcom an easy way to access them.
