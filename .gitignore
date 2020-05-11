@@ -12,7 +12,6 @@
 *.cb2
 *..lb
 *.tex
-*.pdf
 ## Intermediate documents
 *.dvi
 *.xdv
