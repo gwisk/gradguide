@@ -8,6 +8,16 @@
 
 **If you want to see my CV and SOP, feel free to email me.**
 
+COVID-19
+========
+A lot of students have had questions about COVID-19 and how it could potentially affect the application process. At the time of writing (June 2020), not many universities have announced plans, but some have. Both MIT and UChicago's physics departments have announced that they will not be accepting the GRE and physics GRE this upcoming cycle. I have heard of others making the tests optional. It's very likely that many schools will adopt these policies in the upcoming months.
+
+That being said, I still recommend taking the tests, if it is possible. I only recommend this course of action if a) least one or two schools on your list require them/have made them optional and b) these schools are near your top choices. 
+
+I also recommend applying to more programs than you originally planned to, if you are financially able. I recommend this since budget cuts have forced some schools to cut the number of open positions. Considering this, I believe it is best to cast a wide net and apply to a variety of programs to ensure success. Furthermore, I don't think it's a bad idea to take some time during winter break to apply to jobs, post-baccalaureate opportunities, or internships to expand your options in case admissions do not pan out (but I sincerely hope you get into the programs you want to).
+
+
+
 What is this guide?
 ===================
 
