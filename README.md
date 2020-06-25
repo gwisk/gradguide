@@ -60,7 +60,7 @@ I'm excited about!
 
 At the end of the day, it is a crapshoot. You will get in somewhere,
 absolutely. The question is just where. I hope with this guide in hand,
-you are more informed about the process and can craft the absolute
+you are more informed about the process and can craft the
 strongest application you can. At the top of this guide, you will find a
 link to a Google Drive folder that has a lot of resources as well as a
 Google Sheet that will help you track your app (I call it simply the
@@ -75,8 +75,25 @@ One last thing before I dive in: your mileage may and will vary. This is
 advice I've heard and what I've seen in my experience. This is not an
 atlas, but rather, a survey of the landscape. Take from it what helps,
 and if you feel like some advice is inapplicable, then trust yourself
-and see what's best. Again, if you need any advice relevant to your
-situation, feel free to email me and I'll get back to you!
+and your common sense. Again, if you need any advice relevant to your
+situation, feel free to email me.
+
+The Question of GPA
+===================
+
+I need to dispel this from the outset. I've had a lot of people ask me
+if they can get into grad school with anything other than a 4.0. I want
+to say that when it comes to reading your application, GPA is far from
+the most important thing in your application. Grad schools care first
+and foremost about your ability to be a capable researcher. GPA does not
+reflect your ability to do research. That is not to say it's not
+important. I will say that once you're over a certain GPA, it doesn't
+really matter what the exact number is. This number depends on the
+school, but once you're past this hurdle, your GPA is not going to be
+the reason you've been rejected (if you get rejected). So, if you are
+set on going to graduate school, give it a shot, and don't worry about
+your GPA.
+
 
 Tips for Freshmen/Sophomores
 ============================
@@ -97,11 +114,11 @@ Advice
 
 1.  Do well in your classes and go to office hours. At the beginning, I
     mentioned GPA is not the most important part of the application.
-    This is still true here, but all things equal, you want to ensure
+    This is still true, but all things equal, you want to ensure
     you do the best you can in your major classes. If you've had a bad
-    semester, it's absolutely not the end. I had a very tough time in my
+    semester, it's not the end. I had a very tough time in my
     first three semesters, and demonstrated an upward trend after that
-    in my application! Showing an upward trend demonstrates to the
+    in my application. Showing an upward trend demonstrates to the
     admissions committee your tenacity and your ability to do well.
 
     Go to office hours as well, for any reason: if you have questions
@@ -124,26 +141,9 @@ Advice
     having letters of recommendation from research advisors can be a
     very strong boost.
 
-3.  If you have any questions, I can't say it enough: email me anytime!
-    I'm more than happy to help and answer any questions out there.
 
-The Question of GPA
-===================
 
-I need to dispel this from the outset. I've had a lot of people ask me
-if they can get into grad school with anything other than a 4.0. I want
-to say that when it comes to reading your application, GPA is far from
-the most important thing in your application. Grad schools care first
-and foremost about your ability to be a capable researcher. GPA does not
-reflect your ability to do research. That is not to say it's not
-important. I will say that once you're over a certain GPA, it doesn't
-really matter what the exact number is. This number depends on the
-school, but once you're past this hurdle, your GPA is not going to be
-the reason you've been rejected (if you get rejected). So, if you are
-set on going to graduate school, give it a shot, and don't worry about
-your GPA.
-
-M.O. of Graduate Admissions
+The M.O. of Graduate Admissions
 ===========================
 
 How do grad committees judge your app? They are looking to answer this
@@ -153,12 +153,7 @@ of our faculty members?** (There is a caveat. Say the professor you want to work
 
 You should have this question in mind when drafting your materials. Everything you prepare should address this question in some capacity. I don't want to scare you or sound didactic, but fully-funded Ph.D. programs will be giving you a tuition waiver and paying you a decent stipend for 5-6 years. This is a commitment of a few hundred thousand dollars. This is why they ask this question, and why you must answer it with a firm "YES."
 
-This is also why fit is important. An arbitrary example: you can be the best
-biologist in the entire world, but if I'm studying history, there's no
-way we're going to be a good fit for one another and carry out
-successful research. Fit is something you need to be aware of. If no
-faculty member is asking the same questions as you, you won't be a good
-fit.
+This is also why fit is an important criterion for the admissions committee. An arbitrary and trivial example: you can be the best and most prolific exoplanet researcher in the entire world, but if there's nobody in the department studying exoplanets, you're not going to fit with any of the faculty and carry out successful research. Fit is something you need to be aware of. If no faculty member is asking the same questions as you, you won't be a good fit. And that's fine. But find schools where you feel like you'd fit, and it will make answering this question easier, both for you and for the admissions committee.
 
 How the Adcom Works
 -------------------
@@ -171,7 +166,7 @@ specific faculty member, and they will be asked to give some feedback on
 your application.
 
 More or less, this is how it works. Some schools do employ cuts and will
-not look at some apps with test scores below some threshold. I think the
+not look at some apps with test scores below some threshold. The
 number of schools who cut is fairly low, however.
 
 The important thing about admissions is that your app is being read by
@@ -194,6 +189,8 @@ only a couple of schools you're interested in require it, since you do
 not want to be in a situation where you want to apply but you can't
 take/haven't taken the test. Here is my advice.
 
+ETS does provide 50% fee waivers for both the GRE and physics GRE. There are some stipulations, however. You need to fit the ETS's definition of financial need and you need to be a college senior to apply.
+
 General GRE Advice
 ------------------
 
@@ -208,7 +205,7 @@ General GRE Advice
     math sections and two verbal sections with an additional
     experimental section (which could either be math or verbal).
 
-3.  I recommend the ETS study guide, it has a lot of helpful tips for
+3.  I recommend the official ETS study guide, it has a lot of helpful tips for
     doing well, as well as a ton of practice questions. The types of
     questions you might be asked are pretty different from those you've
     encountered on the SAT or ACT, so you'll want to be familiar.
@@ -251,7 +248,7 @@ Subject GRE Advice
 5.  Don't focus on your score too much. I know plenty of people who got
     into top-tier programs with scores they thought were not good
     enough. Do the best you can, but realize, at the end of the day,
-    this is a small factor. What matters more is your experience, SOP,
+    this is a small factor. What matters more is your experience, statement of purpose,
     and letters.
 
 Letters of Recommendation (LORs)
@@ -261,7 +258,7 @@ Comments
 --------
 
 So, let's start with one of the most fundamental parts of the
-application, which is common to every application you will submit. LORS:
+application, which is common to every application you will submit. LORs:
 you need them. You're undoubtedly familiar with them due to undergrad
 and summer jobs/research. For the most part, LORs are just a formality
 in undergrad admissions. But, in grad admissions, they make all the
