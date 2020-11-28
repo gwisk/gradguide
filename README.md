@@ -390,7 +390,7 @@ Advice
     exactly what you like. Looking by people and research instead of by
     school frees you from your biases.
 
-    I will also mention: skim the papers. Don't try to spend a ton of time poring over papers, it very likely that much of it will be hard to absorb. I recommend reading the abstract, introduction, and the conclusion. This will give the majority of what yo need to know.
+    I will also mention: skim the papers. Don't try to spend a ton of time poring over papers, it's very likely that much of it will be hard to absorb. I recommend reading the abstract, introduction, and the conclusion. This will give the majority of what you need to know.
     
 3.  When you write down the names of these people, write a short little
     note on what they do. If you're like me, you're going to totally
@@ -536,12 +536,11 @@ recruiting students to a particular line of work. Take for example, the
 DOE NNSA SSGF, which tries to heavily recruit students to national labs.
 If you do this fellowship, you are required to intern at a government
 lab for a summer. From what I've heard from current fellows, if you win
-the SSGF, getting a job at a national lab becomes slight work,
-basically. So, it opens doors to you *just* by virtue of having it.
+the SSGF, getting a job at a national lab becomes easier. So, it opens doors to you *just* by virtue of having it.
 
 ### Freedom
 
-Sometimes, a PoI (person of interest) at your
+Sometimes, a PI at your
 graduate institution may not have space to take you on in their group because of funding. This is a serious problem you might face. However, if you bring
 in your money via fellowship, the game changes, and you can essentially
 work with anyone barring other factors (perhaps the faculty is too busy
@@ -889,7 +888,7 @@ Advice
 ------
 
 1.  Get the fee waivers **as soon as possible**. Some schools will
-    actually have them first-come, first-served. Do it early.
+    actually have them first-come, first-served. Do. It. Early.
 
 2.  Now, the way you get them: Each school has an FAQ which describes
     eligibility requirements. It could be your EFC is 0, you
@@ -954,8 +953,7 @@ Advice
     state that by the time I sent my SOP for review to the last few
     people on my list, they would have no comments or suggestions. This
     ensured that I really did have something strong, since different
-    people would all agree it's strong. Now, I think you should try to
-    come up with as many people as you can. Younger faculty are great,
+    people would all agree it's strong. People to consider listing: younger faculty are great,
     since they know how it was not too long ago. And current graduate
     students will know exactly how to help.
 
@@ -967,8 +965,7 @@ Advice
 2.  Also pay attention to anything at your school that may help. My
     school hosted some SOP review workshops with current grad students,
     for example. Going to something like this can really help you get an
-    important perspective. So, just be aware of what's going on and what
-    may be helpful.
+    important perspective. So, just be aware of what's going on.
 
 3.  Now we come to what you should write. I have a lot to say about
     this. The statement of purpose ultimately needs to be a narrative,
@@ -980,7 +977,7 @@ Advice
     limit on how much you can write. Keep it to two pages maximum
     though, they will start skimming if it's any longer.
 
-    But my point is that it should be cohesive. So, in the next few
+    Ultimately, it should be cohesive. So, in the next few
     points, I'll discuss what needs to be covered and how to do so.
 
 4.  A warning: there are some **kisses of death** in the SOP. These will
@@ -990,9 +987,8 @@ Advice
     (especially with mental health) and trying too hard to impress. The
     first one is a rather unfortunate one; it is my personal belief that
     in an ideal world, students should be able to be entirely honest
-    about their struggles with mental health. Unfortunately, academia
-    has an unfortunate stigma, and sharing about mental health or other
-    struggles will not help. So, it is best to omit any mentions of
+    about their struggles with mental health. Quite regrettably, academia
+    maintains this stigma. So, it is best to omit any mentions of
     mental health. Do discuss your struggles, but do not focus on the
     negative; focus on your response and ability to overcome. Lastly,
     don't try to oversell yourself. I believe you're awesome, but we're
@@ -1011,8 +1007,8 @@ Advice
     want to include this in the SOP, because it does not address your
     capability to be a researcher. Remember the M.O.
 
-5.  Your first draft will not be phenomenal. I wish it could be so, my
-    first draft legitimately bad. I made a lot of mistakes and devoted a
+5.  Your first draft will not be phenomenal. I wish it could be so! My
+    first draft was pretty bad. I made a lot of mistakes and devoted a
     non-insignificant part of it to talking about my outreach. Save that
     for the fellowship essays, don't do it in the SOP. What you want to
     do is probably draft it, shelve it for a few days, and come back to
@@ -1060,6 +1056,8 @@ Here is one of the most important pieces of advice I'll give you:
     than help me, but I wrote a lot about the really important skills I
     learned from that experience and how those would help me in my
     future research.
+
+    Be your own salesperson. You have to sell what you've done to your audience (the adcom). So find an angle, and run with it.
     
 8. I'll give an example from one of my statements, since this all
    sounds super abstract. We'll dissect it and see what we can learn
@@ -1082,9 +1080,9 @@ Here is one of the most important pieces of advice I'll give you:
    > questions in fundamental physics.
 
    Most of my reviewers remarked that this paragraph was one of the
-   strongest in my statement. Now, sentence-by-sentence.
+   strongest in my statement. Let's run through it sentence-by-sentence.
 
-   
+
 
    "I spent the summer of 2018 at Caltech working with Prof. XX on FQNET, a quantum network based at Fermilab." 
 
@@ -1099,8 +1097,8 @@ Here is one of the most important pieces of advice I'll give you:
 
    You'll also see there is a "funnel" at play here. I give the big
    picture of the collaboration at Fermilab, discuss what Caltech
-   is doing, then I finally state what it is I do. I recommend you
-   use the funnel in whatever it is you write. It looks simple, but I myself often forget to use it, and it's a great way to help structure your paragraphs.
+   is doing, then I finally state what it is I do. Essentially I have started with the big picture then I get more and more specific. I recommend you
+   use the funnel in whatever it is you write. It's simple, but I often forget to use it myself, and it's a great way to help structure your paragraphs.
 
    
 
@@ -1129,16 +1127,18 @@ Here is one of the most important pieces of advice I'll give you:
    Then, re-iterate how your past experiences would help you be a
    productive member of their group!
 
+   This is where the background research you have done on each school becomes important. You want to demonstrate fit so mention what draws you to that school. As I just got done saying, talking about faculty and their projects are important! If there's anything else the school offers, mention it. It could be: a cool combined degree program, a new cool collaboration with other university, proximity to a national lab, a dedicated research center, and so on. 
+
 10. Being concise is vital. This is definitely a lot to discuss in two
-       pages. Your first draft will not be concise. 90% of writing is in
+       pages. Your first draft will not be concise. 80% of writing is in
        the editing. I'll quote Kurt Vonnegut: "Have the guts to cut."
 
 11. If you have any publications, mention them and cite them to give the
     adcom an easy way to access them.
 
-12. If you can, prepare it in LaTeX, it's my belief that it looks a bit
+12. If you can, prepare it in LaTeX, it looks a bit
     more professional and gives the document an air of finality and
-    authority.
+    authority. But content matters so, so much more than presentation. 
 
 13. Reuse your statement, and just change the last paragraph for each
     school.
@@ -1270,6 +1270,8 @@ Advice
     Review the questions you could be asked, and pick a few questions
     that you want the answer to, and ask them at the end of the
     interview.
+
+5. You got this! Don't be nervous :)
 
 Visiting Schools and Meeting Faculty
 ====================================
