@@ -4,15 +4,17 @@
 
 **Grad Folder**: [(Click here!)](https://drive.google.com/drive/folders/1vI2JCuJCNmggk-SFkw5LnA046zGItzvM?usp=sharing)
 
-**Email:** <george.iskander@yale.edu>
+**Email:** <georgeiskander@uchicago.edu>
 
 **If you want to see my CV and SOP, feel free to email me.**
 
-COVID-19
+COVID-19 Pandemic and Grad School
 ========
-A lot of students have had questions about COVID-19 and how it could potentially affect the application process. At the time of writing (Sept. 3 2020), most, if not all universities have announced they are waiving the GRE subject tests. The GRE subject test administrations have been cancelled this fall, so I can only imagine schools will waive the requirements. Some will still require the regular GRE, however.
+A lot of students have had questions about the pandemic and how it could potentially affect the application process. When I wrote this guide last year, in 2020, virtually every program went test optional. Some even refused to ask for test scores. The advice I gave then was that if the majority of programs folks were applying to were optional, it was best to not take the test and focus efforts on the rest of the application. I had hope that programs, forced by the pandemic to abandon standardized tests, would continue to not require them. It seems that many aren't asking for them anymore, but some have unfortunately gone back to requiring them. Furthermore, the pandemic forced many schools to cut funding, and the number of grad school positions was first on the cutting block for many programs. So, in light of all this, my advice is this. Apply to as many programs as you are financially able to, because it's, frankly, gotten harder to get in. So, cast a wide net. Furthermore, I don't think it's a bad idea to take some time during winter break to apply to jobs, post-baccalaureate opportunities, or internships to expand your options in case admissions do not pan out (but I sincerely hope you get into the programs you want to).
 
-I recommend applying to more programs than you originally planned to, if you are financially able. I recommend this since budget cuts have forced some schools to cut the number of open positions. Considering this, I believe it is best to cast a wide net and apply to a variety of programs to ensure success. Furthermore, I don't think it's a bad idea to take some time during winter break to apply to jobs, post-baccalaureate opportunities, or internships to expand your options in case admissions do not pan out (but I sincerely hope you get into the programs you want to).
+As for standardized tests, make your list of schools and see how many require or don't require tests. If you have a ton of programs you want to apply to and maybe only one requires the GRE, say, then is it really worth it to study and pay to take the test for that one program? Not really. But if a sizeable percentage of your programs require the GRE, then it's probably best to revise for it. 
+
+Thankfully, however, a lot of schools have been flexible, because taking the GRE nowadays especially is tough. If you genuinely cannot take it for whatever reason (financial, health issues, and so on), it's worth talking to the program director and asking if they can waive the test requirement. I've heard folks have had success in doing this, so it's worth considering doing this.
 
 
 
@@ -25,7 +27,7 @@ to create a strong app. In the end, I will link to some great guides you
 may have heard of (Prof. Guo's for example). But my focus is different.
 Guo, for instance, emphasizes the role of research in the evaluation of
 your SOP and tells you what's important, but he does not tell you *how*
-to craft a strong app. I hope I can give some pointers!
+to craft a strong app. I hope I can give some pointers in that regard. I'll also emphasize it throughout this guide, but if you ever need anything, don't be afraid to contact me, I'm more than happy to chat and discuss grad school!
 
 Caveat: I write for my experience in physics, and this advice will
 largely transfer to other STEM fields, with some exceptions. In
@@ -36,13 +38,11 @@ instance.
 About Me (and why this guide?)
 ==============================
 
-My name is George, and I am a current senior. I will be entering a PhD
-program in physics this fall. I'm passionate about physics as well as
+My name is George, and I am currently a PhD candidate at the University of Chicago.  I'm passionate about physics as well as
 about outreach in STEM. Along my journey, I've been helped by amazing
-mentors, and the only reason I am where I am is because of them and
-their generosity. I wrote this guide because, in my opinion, graduate
+mentors. I credit where I am today to them, because they were lovely folks who gave me their time and effort; because of them, I am pursuing my PhD. I wrote this guide because, in my opinion, graduate
 admissions is much more opaque compared to undergraduate admissions, and
-I believe this guide might be helpful to current juniors thinking about
+I believe this guide might be helpful to folks thinking about
 applying.
 
 For instance, there's typically many factors that are beyond your
@@ -52,7 +52,9 @@ Maybe a person didn't get in because all the faculty they want to work
 with aren't taking students. Or because they didn't talk to faculty, and
 some other student did talk to the faculty. And this is what makes the
 process opaque. People will tell you to talk to faculty, make
-connections, sure, but I find this advice sort of vague.
+connections, sure, but I've always found this advice sort of vague.
+
+This is in part due to the hidden curriculum. At every rung of academia, there's hidden norms and processes. If you're rich, if your parents are professors or work in academia, you know all this stuff. Networking and all that is second nature to you. If you're like me, however, first-gen and low-income, you have no clue. And people don't really teach you how to navigate academia, how to apply to grad school, and so on and so forth.
 
 So, my goal with this document is to cut through the cruft and distill
 the most important advice I've gotten. I want you to know what the
@@ -61,10 +63,9 @@ of having a non-insignificant part of your career in someone else's
 hands is really frustrating, especially when you know you're being
 judged by metrics that you may find unfair (such as the GRE and GRE
 subject tests). So, I spent months thinking about how to improve my
-application. In retrospect, I realize there is only so much you can do,
-but there are some important things you can and should do. I got
-rejected from a lot of schools, but I got into many other programs that
-I'm excited about!
+application. In retrospect, I realize there is only so much you can do. After a certain point, it's out of your hands.
+But there are some important things you can and should do. I got
+rejected from a lot of schools, but I got into many other programs and now I am thriving at UChicago.
 
 At the end of the day, it is a crapshoot. You will get in somewhere,
 absolutely. The question is just where. I hope with this guide in hand,
@@ -77,7 +78,7 @@ Google Sheet that will help you track your app (I call it simply the
 I've also put my email at the beginning of the document. Do not hesitate
 to email me if you have any questions and need any help. I want to make
 admissions equitable, and I believe the best way to do so is to make
-myself as available as possible.
+myself as available as possible. I am more than willing to chat, email, etc. if I can help you.
 
 One last thing before I dive in: your mileage may and will vary. This is
 advice I've heard and what I've seen in my experience. This is not an
@@ -89,8 +90,8 @@ situation, feel free to email me.
 The Question of GPA
 ===================
 
-I need to dispel this from the outset. I've had a lot of people ask me
-if they can get into grad school with anything other than a 4.0. I want
+I need to dispel this right from the outset. I've had a lot of people ask me
+if they can get into grad school with anything other than a 4.0. Or they'll ask, hey is a 3.8 good enough? I used to be an undergrad too, I know what it's like: you aim for the best GPA and you focus on that, perhaps an inordinate amount. But with the benefit of a year of retrospect and from having learned about the process, I want
 to say that when it comes to reading your application, GPA is far from
 the most important thing in your application. Grad schools care first
 and foremost about your ability to be a capable researcher. GPA does not
@@ -145,7 +146,7 @@ Advice
     2.  [List of Research Programs (click
         here)](https://spsyale.sites.yale.edu/resources)
 
-    I must really emphasize this point. Research is important, and
+    I have to emphasize this point. Research is important, and
     having letters of recommendation from research advisors can be a
     very strong boost.
 
@@ -303,7 +304,7 @@ Advice
 
 5.  When should you schedule talking to recommenders? I recommend
     perhaps in the last few weeks of the spring semester. This way, you
-    give them a heads up, and before the hectic fall semester.
+    give them a heads up before the hectic fall semester.
 
 6.  When you ask for a letter, you should also offer to forward your CV
     and transcript to help them write their letter, as well.
