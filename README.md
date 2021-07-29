@@ -1361,13 +1361,13 @@ Other Guides
 This is just my perspective --- there are plenty of other guides online
 which I think are also helpful and I'll link to them here.
 
-1.  [A Five-Minute Guide to Ph.D. Program Applications by Prof. Guo
-    (click here)](http://www.pgbovine.net/PhD-application-tips.htm)
-
-2.  [Advice for Ph.D. Program Applications by Prof. Guo (click here)](http://www.pgbovine.net/grad-school-app-tips.htm)
+1.  [HOWTO: Get into grad school for science, engineering, math and computer science by Matt Might (click here)](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)
     
-3.  [Advice for Science Fellowship Applications: NSF, NDSEG, Hertz by
-    Prof. Guo (click here)](http://www.pgbovine.net/fellowship-tips.htm)
+2.  [List of Kisses of Death (click here)](https://psychology.unl.edu/psichi/Graduate_School_Application_Kisses_of_Death.pdf)
 
-4.  [Structure is Magic: A Guide to the Graduate SOP (click
+3.  [Structure is Magic: A Guide to the Graduate SOP (click
     here)](http://writeivy.com/structure-is-magic-a-guide-to-the-graduate-sop/)
+
+4. [CMU guide to applying (click here)](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+
+5. [MIT SOP guidelines (click here)](https://web.mit.edu/msrp/myMSRP/docs/Statement%20of%20purpose%20guidelines.pdf)
