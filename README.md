@@ -2,8 +2,6 @@
 
 ## George Iskander
 
-**Grad Folder**: [(Click here!)](https://drive.google.com/drive/folders/1vI2JCuJCNmggk-SFkw5LnA046zGItzvM?usp=sharing)
-
 **Email:** <georgeiskander@uchicago.edu>
 
 **If you want to see my CV and SOP, feel free to email me.**
@@ -70,10 +68,7 @@ rejected from a lot of schools, but I got into many other programs and now I am 
 At the end of the day, it is a crapshoot. You will get in somewhere,
 absolutely. The question is just where. I hope with this guide in hand,
 you are more informed about the process and can craft the
-strongest application you can. At the top of this guide, you will find a
-link to a Google Drive folder that has a lot of resources as well as a
-Google Sheet that will help you track your app (I call it simply the
-"grad sheet" in this document).
+strongest application you can. I recommend keeping organized through the whole process. Keep a spreadsheet of places you're applying to!
 
 I've also put my email at the beginning of the document. Do not hesitate
 to email me if you have any questions and need any help. I want to make
@@ -321,7 +316,7 @@ Advice
     interests, and they can tailor their letter better. The more
     involved they are and the more in-the-loop they are, the better.
 
-9.  Track the status of the letters in the grad sheet. If you apply to
+9.  Track the status of the letters in a spreadsheet. If you apply to
     ten programs and ask for three letters, that's thirty letters to
     keep track of. So, use the sheet to make sure everything gets in on
     time. Remind your recommenders every so often through the semester,
@@ -908,7 +903,7 @@ Advice
     recruiters and get the fee waivers then.
 
 4.  I recommend just Googling each school/department's policy, and
-    keeping it all in the grad sheet, so you can keep track of it all.
+    keeping it all in your spreadsheet, so you can keep track of it all.
 
 The Application
 ===============
@@ -931,8 +926,7 @@ Advice
 3.  Some apps will ask you to list: every class you've taken in your
     major, your grade in all those classes, what year you took them, and
     what textbook you used. This can be exhausting to fill out, so I
-    recommend you take a look at the class tab of the grad sheet, and
-    just spend some time filling it out so you can easily copy from it.
+    recommend you do it thoroughly once, paste it into your spreadsheet, and keep it on hand for other applications.
 
 Statement of Purpose (SOP)
 ==========================
@@ -1158,10 +1152,8 @@ discuss how to write a strong CV and what sections to include.
 Advice
 ------
 
-1.  Start out with a nice template. One of my favorites is the Rezi BETA
-    template, which I've uploaded to the Drive folder I linked to at the
-    beginning. I recommend LaTeXif you can though (especially with
-    Awesome-CV), since it's very flexible.
+1.  Start out with a nice template. Rezi has some good free templates and is free. I recommend LaTeX as well (I like the
+    Awesome-CV template), but don't get caught up tweaking your CV to perfection.
 
 2.  The sections I think you should include (in this order) are:
 
