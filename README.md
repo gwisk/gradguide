@@ -387,6 +387,12 @@ Advice
     school frees you from your biases.
 
     I will also mention: skim the papers. Don't try to spend a ton of time poring over papers, it's very likely that much of it will be hard to absorb. I recommend reading the abstract, introduction, and the conclusion. This will give the majority of what you need to know.
+
+    Another way to get a first list of names is a directory that sorts
+    professors by field, such as the free [ProfScout professor directory
+    (click here)](https://profscout.com/professors/directory), which also
+    shows a recent paper for each person. Treat it as a starting point and
+    check their papers yourself.
     
 3.  When you write down the names of these people, write a short little
     note on what they do. If you're like me, you're going to totally
